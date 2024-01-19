@@ -1,0 +1,17 @@
+# ninja log v5
+875	952	7273496955298561	pacman.cpp.exe	7ec4dbe430604474
+0	855	7273496954375119	CMakeFiles/pacman.cpp.dir/colours.cpp.obj	ec614c73bc68fe8b
+0	142	7273497725758378	build.ninja	31a53ecc3f49ed31
+863	928	7273496181914914	apsc143project.cpp.exe	801ed04c1e512050
+3	875	7273496954581307	CMakeFiles/pacman.cpp.dir/pacman.cpp.obj	76ec93d6a5225c6a
+4	1390	7273497796879047	CMakeFiles/pacman.cpp.dir/pacman.cpp.obj	b7c2adabdc4d6507
+10	1417	7273497797145960	CMakeFiles/pacman.cpp.dir/colours.cpp.obj	5d1308cd3940e578
+1417	1528	7273497798230042	pacman.cpp.exe	7ec4dbe430604474
+3	1185	7273499005100033	CMakeFiles/pacman.cpp.dir/pacman.cpp.obj	b7c2adabdc4d6507
+1196	1264	7273499005873520	pacman.cpp.exe	7ec4dbe430604474
+1	892	7273499066357472	CMakeFiles/pacman.cpp.dir/pacman.cpp.obj	b7c2adabdc4d6507
+893	971	7273499067125176	pacman.cpp.exe	7ec4dbe430604474
+2	1205	7273499140800898	CMakeFiles/pacman.cpp.dir/pacman.cpp.obj	b7c2adabdc4d6507
+1205	1321	7273499141928439	pacman.cpp.exe	7ec4dbe430604474
+2	1306	7273499682083238	CMakeFiles/pacman.cpp.dir/pacman.cpp.obj	b7c2adabdc4d6507
+1307	1375	7273499682868198	pacman.cpp.exe	7ec4dbe430604474
