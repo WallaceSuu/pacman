@@ -1,4 +1,4 @@
-// Pacman gamedd
+// Pacman game
 // Wallace Su
 // December 5th 2022
 #include <stdio.h>
